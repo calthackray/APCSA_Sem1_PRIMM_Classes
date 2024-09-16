@@ -12,19 +12,19 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  your answer
+    >  It will the print the value of the perimeter
 
 2. What do you think the words `public` and `private` mean?
-    > your answer
+    > Public can be accessed by other files, private can only be accessed by the file it's currently in
 
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    > your answer
+    > They are both java files and square gets values and info from ShapeDriver
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > your answer
+    > No
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > your answer
+    > So it can find a set the specific value for side
 
 ## Run
 Run the program. 
